@@ -64,6 +64,8 @@ DB_CONFIG = {
 
 ### 4. Datos del Dataset OULAD
 El dataset debe ser cargado en MySQL con las tablas:
+Puede descargar el script de la base de datos en: 
+https://drive.google.com/drive/folders/1I8umxBUatj7CypkoHSPJXKLn5o1Alp5Q?usp=sharing
 - `studentInfo`: Información demográfica de estudiantes
 - `studentVle`: Interacciones con el entorno virtual
 - `courses`: Información de cursos
