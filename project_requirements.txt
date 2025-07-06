@@ -1,0 +1,16 @@
+# Dependencias del proyecto de análisis educativo
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mysql-connector-python
+tqdm
+imbalanced-learn
+sqlalchemy
+xgboost
+scipy
+joblib
+plotly
+statsmodels
+

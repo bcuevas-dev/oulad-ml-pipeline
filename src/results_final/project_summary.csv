@@ -1,0 +1,6 @@
+Metric,Value
+Records Processed,80
+Features Generated,27
+Execution Time (min),2.3
+Best Model,RandomForest
+Best F1-Score,1.000
