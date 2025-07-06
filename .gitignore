@@ -1,12 +1,10 @@
 # Ignorar salidas y archivos temporales
-
 *.log
 *.tmp
 *.bak
 *.swp
 
-# Archivos de sistema de macOS
-.DS_Store
+# Archivos de sistema de .DS_Store
 .AppleDouble
 .LSOverride
 Icon?
