@@ -1,5 +1,5 @@
 # Ignorar salidas y archivos temporales
-results/
+
 *.log
 *.tmp
 *.bak
